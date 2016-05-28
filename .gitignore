@@ -1,0 +1,9 @@
+# build destination
+dest
+built
+
+# node
+node_modules
+
+# typescript definitions
+typings
